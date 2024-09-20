@@ -19,6 +19,11 @@ Simple command-line utility for generating QR codes with an icon overlay
     pip3 install -r $HOME/lib/qr-code/requirements.txt
     ```
 
+1. Show usage and help documentation
+    ```sh
+    qr_png --help
+    ```
+
 
 # Dependencies
 Name | URL
